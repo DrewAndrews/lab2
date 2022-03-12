@@ -1,0 +1,60 @@
+{
+    "films": [
+        {
+            "title": "Home alone",
+            "year": 1998,
+            "studio": "Home studio",
+            "attributes":
+            {
+                "author": "Peter Cockson",
+                "producer": "Mick Dickson",
+                "casts": [
+                    "Joe Moon",
+                    "Tom Fork",
+                    "Luka Shenko"
+                ],
+                "premium": {
+                    "festival": "Huiskiy",
+                    "year": 2000
+                }
+            }
+        },
+        {
+            "title": "Freddy Killer",
+            "year": 1989,
+            "studio": "Nightmare studio",
+            "attributes":
+            {
+                "author": "Sunny Knife",
+                "producer": "Alex Spoon",
+                "casts": [
+                    "Marry Parry",
+                    "Lom Bom",
+                ],
+                "premium": {
+                    "festival": "Chuma festival",
+                    "year": 2002
+                }
+            }
+        },
+        {
+            "title": "Obshaga live",
+            "year": 2019,
+            "studio": "Obshaga studio",
+            "attributes":
+            {
+                "author": "Valyuha Velikaya",
+                "producer": "Marya Obshajnaya",
+                "casts": [
+                    "Russkiy Uzbek",
+                    "Artur Redkin",
+                    "Mojno Nenado"
+                ],
+                "premium": {
+                    "festival": "Obshajnyi",
+                    "year": 2021
+                }
+            }
+        }
+    ]
+}
